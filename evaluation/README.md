@@ -21,4 +21,9 @@ This section is amed to keep track of the quality of DL-based models quality ove
 | Stereotype | news corpus | 0.776 | 0.749 | 0.77 |
 | Irony | news corpus | 0.769 | 0.769 | 0.77 |
 
+## Latest Models
+* [**Hate Speech**](https://github.com/AequaTech/DebunkerAssistant/tree/main/models/hate_speech.safetensors)
+* [**Stereotype**](https://github.com/AequaTech/DebunkerAssistant/tree/main/models/stereotype.safetensors)
+* [**Irony**](https://github.com/AequaTech/DebunkerAssistant/tree/main/models/irony.safetensors)
+
 
