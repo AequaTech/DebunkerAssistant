@@ -15,7 +15,8 @@ This section is amed to keep track of the quality of DL-based models quality ove
 
 ### Results
 
-| Phenomenon | test-set | accuracy | f1-score- macro | f1-score- weigthed avg |
+| Phenomenon  |  test-set   | accuracy | f1-score- macro | f1-score- weigthed avg |
+| ----------- | ----------- | -------- | --------------- | ---------------------- |
 | Hate Speech | news corpus | 0.772 | 0.722 | 0.75 |
 | Stereotype | news corpus | 0.776 | 0.749 | 0.77 |
 | Irony | news corpus | 0.769 | 0.769 | 0.77 |
